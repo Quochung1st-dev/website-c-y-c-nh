@@ -1,0 +1,7 @@
+2019-05-05T03:03:17+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /home/tppone/domains/tppone.com/public_html/demo/chaucay/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php:551
+Stack trace:
+#0 /home/tppone/domains/tppone.com/public_html/demo/chaucay/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php(460): ActionScheduler_wpPostStore->claim_actions('5cbf66f014ca238...', 25, NULL, Array, '')
+#1 /home/tppone/domains/tppone.com/public_html/demo/chaucay/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_QueueRunner.php(71): ActionScheduler_wpPostStore->stake_claim(25)
+#2 /home/tppone/domains/tppone.com/public_html/demo/chaucay/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_QueueRunner.php(61): ActionScheduler_QueueRunner->do_batch(25)
+#3 /home/tppone/domains/tppone.com/public_html/demo/chaucay/wp-includes/class-wp-h in /home/tppone/domains/tppone.com/public_html/demo/chaucay/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php on line 551
+

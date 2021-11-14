@@ -1,0 +1,128 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-02 05:32:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-editor.php:828
+msgctxt "Editor Name"
+msgid "Edit (Classic Editor)"
+msgstr "Sửa (Cổ điển)"
+
+#: classic-editor.php:821
+msgctxt "Editor Name"
+msgid "Edit (Block Editor)"
+msgstr "Sửa (Block)"
+
+#: classic-editor.php:424
+msgid "Default Editor"
+msgstr "Trình sửa mặc định"
+
+#: classic-editor.php:457
+msgid "Change settings"
+msgstr "Đổi cài đặt"
+
+#: classic-editor.php:444
+msgid "Default editor for all sites"
+msgstr "Trình sửa mặc định cho toàn trang"
+
+#: classic-editor.php:440
+msgid "Editor Settings"
+msgstr "Cài đặt trình sửa"
+
+#: classic-editor.php:375 classic-editor.php:452 classic-editor.php:858
+#: classic-editor.php:869
+msgctxt "Editor Name"
+msgid "Block Editor"
+msgstr "Trình sửa Block"
+
+#: classic-editor.php:371 classic-editor.php:448 classic-editor.php:855
+#: classic-editor.php:869
+msgctxt "Editor Name"
+msgid "Classic Editor"
+msgstr "Trình sửa cổ điển"
+
+#. translators: %s: post title
+#: classic-editor.php:823
+msgid "Edit &#8220;%s&#8221; in the Block Editor"
+msgstr "Sửa &#8220;%s&#8221; trong trình soạn thảo Block"
+
+#: classic-editor.php:663
+msgid "Switch to Block Editor"
+msgstr "Chuyển sang soạn thảo Block"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr "https://vi.wordpress.org/plugins/classic-editor/"
+
+#. Author URI of the plugin
+msgid "https://github.com/WordPress/classic-editor/"
+msgstr "https://github.com/WordPress/classic-editor/"
+
+#: classic-editor.php:460
+msgid "Allow site admins to change settings"
+msgstr "Cho phép quản trị viên thay đổi thiết lập"
+
+#: classic-editor.php:687
+msgid "Switch to Classic Editor"
+msgstr "Chuyển sang soạn thảo cũ"
+
+#: classic-editor.php:644
+msgid "Editor"
+msgstr "Trình biên tập"
+
+#: classic-editor.php:399
+msgid "No"
+msgstr "Không"
+
+#: classic-editor.php:395
+msgid "Yes"
+msgstr "Có"
+
+#: classic-editor.php:322
+msgid "Allow users to switch editors"
+msgstr "Cho phép người dùng chuyển trình soạn thảo"
+
+#: classic-editor.php:321
+msgid "Default editor for all users"
+msgstr "Trình soạn thảo mặc định cho tất cả người dùng"
+
+#: classic-editor.php:513
+msgid "Change the %1$sClassic Editor settings%2$s."
+msgstr "Đổi %1$scài đặt Classic Editor%2$s."
+
+#: classic-editor.php:504
+msgid "The Classic Editor plugin prevents use of the new Block Editor."
+msgstr "Plugin Class Editor ngăn việc sử dụng của trình soạn thảo block mới."
+
+#: classic-editor.php:461
+msgid "By default the Block Editor is replaced with the Classic Editor and users cannot switch editors."
+msgstr "Mặc định trình soạn thảo dạng Block sẽ thay thế bởi Classic Editor và người dùng không thể chuyển lại."
+
+#: classic-editor.php:706
+msgid "Settings"
+msgstr "Cài đặt"
+
+#. Author of the plugin
+msgid "WordPress Contributors"
+msgstr "Cộng tác viên WordPress"
+
+#. Description of the plugin
+msgid "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen."
+msgstr "Bật trình soạn thảo cổ điển của WordPress và bố cục màn hình Chỉnh sửa bài đăng kiểu cũ (TinyMCE, các hộp meta, v.v.). Hỗ trợ các plugin cũ mở rộng màn hình này."
+
+#. Plugin Name of the plugin
+msgid "Classic Editor"
+msgstr "Classic Editor"
+
+#. translators: %s: post title
+#: classic-editor.php:830
+msgid "Edit &#8220;%s&#8221; in the Classic Editor"
+msgstr "Sửa &#8220;%s&#8221;  trong Trình soạn thảo cơ bản"

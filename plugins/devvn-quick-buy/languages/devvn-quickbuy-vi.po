@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DevVN - Quick Buy - Mua Hàng Nhanh\n"
+"POT-Creation-Date: 2018-06-07 12:01+0700\n"
+"PO-Revision-Date: 2018-06-07 12:02+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: devvn-quick-buy.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: devvn-quick-buy.php:137
+msgid "Thông tin người mua"
+msgstr "Thông tin người mua"
+
+#: devvn-quick-buy.php:193
+msgid "Tỉnh thành"
+msgstr ""
+
+#: devvn-quick-buy.php:563
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: devvn-quick-buy.php:605 devvn-quick-buy.php:606 devvn-quick-buy.php:626
+msgid "Quick Buy Setting"
+msgstr "Cài đặt mua nhanh"
+
+#: devvn-quick-buy.php:629
+msgid "General settings"
+msgstr "Cài Đặt Chung"
+
+#: devvn-quick-buy.php:633
+msgid "Enable"
+msgstr "Bật"
+
+#: devvn-quick-buy.php:636 devvn-quick-buy.php:647 devvn-quick-buy.php:655
+#: devvn-quick-buy.php:661 devvn-quick-buy.php:709 devvn-quick-buy.php:733
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: devvn-quick-buy.php:639
+msgid "Deactive"
+msgstr "Ngừng kích hoạt"
+
+#: devvn-quick-buy.php:644
+msgid "Select location"
+msgstr "Chọn tỉnh/thành phố"
+
+#: devvn-quick-buy.php:648
+msgid "Requires have state"
+msgstr "Yêu cầu cần có State"
+
+#: devvn-quick-buy.php:653
+msgid "Shipping"
+msgstr "Vận chuyển"
+
+#: devvn-quick-buy.php:659
+msgid "Require Email"
+msgstr "Bắt buộc điền Email"
+
+#: devvn-quick-buy.php:666
+msgid "Require District"
+msgstr "Bắt buộc chọn quận/huyện"
+
+#: devvn-quick-buy.php:668 devvn-quick-buy.php:674 devvn-quick-buy.php:681
+msgid "Require"
+msgstr "Bắt buộc"
+
+#: devvn-quick-buy.php:672
+msgid "Require Village"
+msgstr "Bắt buộc chọn xã/phường"
+
+#: devvn-quick-buy.php:679
+msgid "Require Address box"
+msgstr "Bắt buộc nhập địa chỉ"
+
+#: devvn-quick-buy.php:686
+msgid "Button quick buy"
+msgstr "Nút mua nhanh"
+
+#: devvn-quick-buy.php:690
+msgid "Button text"
+msgstr "Chữ ở nút mua nhanh"
+
+#: devvn-quick-buy.php:696
+msgid "Button sub text"
+msgstr "Chữ nhỏ ở nút mua nhanh"
+
+#: devvn-quick-buy.php:703
+msgid "Popup setting"
+msgstr "Cài đặt popup"
+
+#: devvn-quick-buy.php:707
+msgid "View product info on mobile"
+msgstr "Hiển thị khung thông tin sản phẩm trong popup trên mobile"
+
+#: devvn-quick-buy.php:713
+msgid "Popup title"
+msgstr "Tiêu đề popup"
+
+#: devvn-quick-buy.php:716
+#, php-format
+msgid "%s to view product title"
+msgstr "%s để hiển thị tiêu đề sản phẩm"
+
+#: devvn-quick-buy.php:720
+msgid "Popup mess"
+msgstr "Lời ghi chú trong popup"
+
+#: devvn-quick-buy.php:731
+msgid "Go to thank you page"
+msgstr "Chuyển đến trang cảm ơn khi đặt hàng xong"
+
+#: devvn-quick-buy.php:737
+msgid "Checkout successfully mess"
+msgstr "Lời nhắn khi mua hàng thành công"
+
+#: devvn-quick-buy.php:738
+#, php-format
+msgid "Type %%order_id%% to view Order ID"
+msgstr "Điền %%order_id%% để hiển thị ID của đơn hàng"
+
+#: devvn-quick-buy.php:749
+msgid "Checkout error message"
+msgstr "Lời nhắn khi mua hàng thất bại"
+
+#: devvn-quick-buy.php:755
+msgid "Out of stock message"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DevVN - Quick Buy - Mua Hàng Nhanh"
+msgstr "DevVN - Quick Buy - Mua Hàng Nhanh"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://levantoan.com/san-pham/plugin-mua-hang-nhanh-cho-woocommerce-"
+"woocommerce-quick-buy/"
+msgstr ""
+"http://levantoan.com/san-pham/plugin-mua-hang-nhanh-cho-woocommerce-"
+"woocommerce-quick-buy/"
+
+#. Description of the plugin/theme
+msgid ""
+"DevVN Quick Buy là plugin giúp khách hàng có thể mua nhanh sản phẩm ngay tại "
+"trang chi tiết dưới dạng popup"
+msgstr ""
+"DevVN Quick Buy là plugin giúp khách hàng có thể mua nhanh sản phẩm ngay tại "
+"trang chi tiết dưới dạng popup"
+
+#. Author of the plugin/theme
+msgid "Le Van Toan"
+msgstr "Lê Văn Toản"
+
+#. Author URI of the plugin/theme
+msgid "http://levantoan.com"
+msgstr "http://levantoan.com"
